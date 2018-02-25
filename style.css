@@ -1,6 +1,10 @@
+* {
+  font-size: 2rem;
+}
+
 .text {
   width: 100%;
-  height: 15vh;
+  height: 30vh;
 }
 
 .img-one {
